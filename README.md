@@ -10,6 +10,5 @@ Drop Insurance is a insurance company mobile application which is made with Unit
 ###Application UI's
 
 
-*Main Menu
- ![](Service-Adjustment/images/main_menu.png)
+![](/images/main_menu.png)
 
